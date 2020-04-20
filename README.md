@@ -5,3 +5,5 @@ This repository host python script and jupyter notebooks we used for paper [Char
 Data used in this repo are \[mostly\] available at [https://reports.alcf.anl.gov/data/](https://reports.alcf.anl.gov/data/).
 
 you need to manually download datasets from the link shown above and save them in the corresponding folders as hard coded in the program. 
+
+Note: we are going to upload code soon, before the date of ICS conference. 
