@@ -6,4 +6,4 @@ Data used in this repo are \[mostly\] available at [https://reports.alcf.anl.gov
 
 you need to manually download datasets from the link shown above and save them in the corresponding folders as hard coded in the program. 
 
-Note: we are going to upload code soon, before the date of ICS conference. 
+Note: we are going to upload code soon, plase contact the 1st author _Zhengchun Liu_ if you cannot wait. 
